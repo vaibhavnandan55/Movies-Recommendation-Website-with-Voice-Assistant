@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+._cards1{
+    height:300px;
+    align-items: center;
+     background-attachment: fixed;
+     background-image:url('https://images7.alphacoders.com/737/thumb-1920-737400.jpg');
+     
+    /* background-repeat: no-repeat; */
+    font-family: 'Roboto',sans-serif;
+    text-align: center;;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-top:70px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    color:white;
+    border-radius: 10px;
+    margin-right: 10px;
+    
+}
+._cards3{
+    background-image:url('https://images-ext-1.discordapp.net/external/Nd4XOWMKXfQDXI220B1HnIvCcWGMst36Ll65be5CuII/https/images.hdqwalls.com/download/joker-smoker4k-s7-1680x1050.jpg');
+    /* background-image: url('https://photos.hancinema.net/photos/fullsizephoto910672.jpg'); */
+    height:500px;
+   
+    font-family: 'Roboto',sans-serif;
+    text-align: center;;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-top: 220px;
+    padding-bottom: 10px;
+    background-attachment: fixed;
+    margin-bottom: 10px;
+    color:white;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+._cards2_div{
+    display:flex;
+    height:300px;
+    text-align: center;;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    background-attachment: fixed;
+    background-image: url('https://wallpaperaccess.com/full/2112224.jpg');
+    
+    border-radius: 10px;
+}
+._cards4_div{
+    display:flex;
+    height:300px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 10px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    /* background-attachment: fixed; */
+   
+    /* background-image:url('https://cdn.vox-cdn.com/thumbor/kLhMHqhPRHYV2SPs-qOgIw_uO6I=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/63304028/surprise_marvel_releases_a_new_full_trailer_and_poster_for_avengers_endgame_social.0.jpg'); */
+    /* background-position: top-right; */
+    border-radius: 10px;
+    background-image:url('https://wallpapers.gg/wp-content/uploads/2017/08/Avatar-2009-1680x1050.jpg');
+
+}
+._cards2{
+    flex:0.5;
+    margin-left: 10px;
+    font-family: 'Roboto',sans-serif;
+    padding-left: 10px;
+    text-align: center;;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    /* background-color: pink; */
+    color:white; 
+}
